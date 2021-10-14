@@ -2,7 +2,8 @@
 
 A bot that predicts football matches outcome and gives wide-ranging statistics in Telegram.
 #
-![Kogoro Demo](github/kogoroGIF.gif)
+<img src="http://github/kogoroGIF.gif" width="200"/>
+
 ## Features:
 - Predictions: 
   1) Expected outcome(win/draw/lose)
