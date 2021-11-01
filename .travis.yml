@@ -7,4 +7,3 @@ install:
   - pip install .
 
 script:
-  - bot/__main__.py
