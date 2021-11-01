@@ -7,3 +7,4 @@ install:
   - pip install .
 
 script:
+  - flake8 . --exit-zero
